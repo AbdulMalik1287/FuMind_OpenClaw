@@ -1,0 +1,3 @@
+Canonical Machine,Total Produced,Total Rejected,SCADA Fault?,ERP Status(es),Delayed+Fault Alert
+FM-01,500,20,NO,"IN_PROGRESS, COMPLETED",
+FM-02,190,22,YES,DELAYED,ALERT

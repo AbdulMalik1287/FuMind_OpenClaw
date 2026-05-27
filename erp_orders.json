@@ -1,0 +1,5 @@
+[
+  { "order_id": "ORD-001", "machine": "M-01", "product": "SHAFT-X", "qty": 500, "status": "IN_PROGRESS" },
+  { "order_id": "ORD-002", "machine": "M-02", "product": "BRACKET-Y", "qty": 200, "status": "DELAYED" },
+  { "order_id": "ORD-003", "machine": "M-01", "product": "PIN-Z", "qty": 800, "status": "COMPLETED" }
+]

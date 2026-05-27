@@ -1,0 +1,5 @@
+[
+  { "ts": "2026-04-28T06:00", "machine": "machine_1", "temp_c": 72.3, "status": "RUNNING" },
+  { "ts": "2026-04-28T07:00", "machine": "machine_2", "temp_c": 68.1, "status": "FAULT" },
+  { "ts": "2026-04-28T08:00", "machine": "machine_1", "temp_c": 74.0, "status": "RUNNING" }
+]

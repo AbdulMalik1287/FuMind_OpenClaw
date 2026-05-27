@@ -1,0 +1,5 @@
+[
+  { "batch_id": "B-100", "order_ref": "ORD-001", "machine_id": "MACH001", "produced": 320, "rejected": 14 },
+  { "batch_id": "B-101", "order_ref": "ORD-002", "machine_id": "MACH002", "produced": 190, "rejected": 22 },
+  { "batch_id": "B-102", "order_ref": "ORD-001", "machine_id": "MACH001", "produced": 180, "rejected": 6 }
+]

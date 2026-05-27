@@ -1,0 +1,25 @@
+{
+  "skills": [
+    {
+      "name": "erp_skill",
+      "description": "Fetches manufacturing orders from the ERP system",
+      "source_id_format": "M-XX",
+      "entry": "erp_skill.py",
+      "language": "python"
+    },
+    {
+      "name": "mes_skill",
+      "description": "Fetches production batch records from the MES system",
+      "source_id_format": "MACHXXX",
+      "entry": "mes_skill.py",
+      "language": "python"
+    },
+    {
+      "name": "scada_skill",
+      "description": "Fetches real-time telemetry from SCADA sensors",
+      "source_id_format": "machine_N",
+      "entry": "scada_skill.py",
+      "language": "python"
+    }
+  ]
+}
