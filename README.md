@@ -14,6 +14,9 @@ source could answer alone.
 | `run_query.py` | Runs the cross-silo query and prints the result table |
 | `query_output.csv` | Output of the cross-silo query |
 | `REFLECTION.md` | reflection on the assignment |
+| `erp-SKILL.md` | OpenClaw skill for ERP skill |
+| `mes-SKILL.md` | OpenClaw skill for MES skill |
+| `scada-SKILL.md` | OpenClaw skill for SCADA skill |
 
 ## Setup Instructions
 
